@@ -107,3 +107,11 @@ Full field-level notes: [docs/API.md](docs/API.md).
 
 This public repo contains **client documentation and helper scripts only**.  
 It does **not** include the analysis source code, models, or server deployment files.
+
+## Video Demo
+
+
+
+https://github.com/user-attachments/assets/073dbd2f-e981-45bb-8c51-aaf986be6202
+
+
